@@ -25,4 +25,4 @@ git clone https://github.com/MdJihad-505/MAX-505
 
 cd MAX-505
 
-MAX-505.py
+python MAX-505.py
